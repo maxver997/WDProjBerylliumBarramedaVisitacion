@@ -1,0 +1,45 @@
+font-family: HK Grotesk;
+{box-sizing: border-box}
+body{
+  width: 80%;
+  /*margin: auto;*/
+  padding-left: 50px;
+  padding-right: 50px;
+   
+}
+section{
+  width: 100%;
+  margin: auto;
+  padding: 10px;
+ 
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+p, iframe{
+    width: 70%;
+    height: 30vh;
+    padding: 10px;
+    border: 1px solid black;
+  overflow: auto;
+  margin: 0;
+  padding: 10;
+}
+iframe {
+  width: 30%; 
+}
+header{
+  width: 100%;
+  margin: auto;
+  padding: 10px;
+  
+}
+div{
+  width: 100%;
+  margin: auto;
+  padding: 10px;
+
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
